@@ -1,6 +1,6 @@
 # Python Learning
 
-My Python learning journey, following CS50P and personal projects.
+My Python learning journey .
 
 ## What's Here
 
