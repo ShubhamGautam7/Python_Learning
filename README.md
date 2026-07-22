@@ -11,5 +11,5 @@ My Python learning journey, following CS50P and personal projects.
 
 ## Exercises
 
-Variables and Types
-Conditionals
+- Variables and Types
+- Conditionals
